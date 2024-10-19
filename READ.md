@@ -8,3 +8,4 @@ With Commands includes:
 
 - Commads
 - Test
+- Projects
